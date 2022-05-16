@@ -28,4 +28,21 @@ You can find Git Essentials on:
 .. can be found here -> [View the full blog post with video](https://kalob.io/blog/getting-started-with-github/)
 
 <!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/KalobTaulien">
+            <img src="https://avatars.githubusercontent.com/u/4743971?v=4" width="100;" alt="KalobTaulien"/>
+            <br />
+            <sub><b>Kalob Taulien</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/GajananHegde">
+            <img src="https://avatars.githubusercontent.com/u/100107148?v=4" width="100;" alt="GajananHegde"/>
+            <br />
+            <sub><b>GajananHegde</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: contributors -end -->
