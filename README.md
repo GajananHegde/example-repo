@@ -29,3 +29,6 @@ You can find Git Essentials on:
 
 
 ![Blah](https://images.app.goo.gl/3rUuVsbaU8cXYARR9)
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
