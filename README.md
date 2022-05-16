@@ -27,8 +27,5 @@ You can find Git Essentials on:
 ## The original blog post from 2018
 .. can be found here -> [View the full blog post with video](https://kalob.io/blog/getting-started-with-github/)
 
-
-![Blah](https://images.app.goo.gl/3rUuVsbaU8cXYARR9)
-
 <!-- readme: contributors -start -->
 <!-- readme: contributors -end -->
